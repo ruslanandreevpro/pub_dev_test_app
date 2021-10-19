@@ -1,0 +1,1 @@
+const fruityviceBaseURL = 'https://fruityvice.com';
